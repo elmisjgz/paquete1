@@ -1,0 +1,11 @@
+Package: EstatUNT
+Type: Package
+Title: Estadística UNT
+Version: 0.1.0
+Author: Elmis García Zare
+Maintainer: <egarciaz@unitru.edu.pe>
+Description:
+    El paquete EstatUNT está creado como ejemplo en el curso de Tópicos de Computacipón de la Maestría en Ciencias, mención Estadística Aplicada.
+License: GPL
+Encoding: UTF-8
+LazyData: true
